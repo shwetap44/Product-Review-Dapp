@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/shwetaparanjape/Blockchain_stuff/Zapit assignment/Product Review Application/contracts/ProductReviews.sol": {
+      "lastModificationDate": 1682782557986,
+      "contentHash": "bdcc6e590509abfdc340f5c29db290c0",
+      "sourceName": "contracts/ProductReviews.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "ProductReviews"
+      ]
+    }
+  }
+}
